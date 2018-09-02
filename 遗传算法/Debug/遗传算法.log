@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+d:\programming\vs2017\sourcecode\遗传算法\遗传算法\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\programming\vs2017\sourcecode\遗传算法\遗传算法\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\programming\vs2017\sourcecode\遗传算法\遗传算法\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  遗传算法.cpp
+d:\programming\vs2017\sourcecode\遗传算法\遗传算法\遗传算法.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  遗传算法.vcxproj -> D:\Programming\VS2017\sourcecode\遗传算法\Debug\遗传算法.exe
